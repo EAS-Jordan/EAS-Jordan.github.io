@@ -4,7 +4,7 @@
     "details": [
       {
         "appIDs": [
-          "tmpTeamID.com.example.pingme"
+          "H84ASDFDK5.com.example.pingme"
         ],
         "paths": [
           "*"
@@ -19,7 +19,7 @@
   },
   "webcredentials": {
     "apps": [
-      "tmpTeamID.com.example.pingme"
+      "H84ASDFDK5.com.example.pingme"
     ]
   }
 }
