@@ -7,7 +7,7 @@
           "H84ASDFDK5.uk.co.enterpriseautomation.pingme.app"
         ],
         "paths": [
-          "*"
+          "/meetings/*"
         ],
         "components": [
           {
