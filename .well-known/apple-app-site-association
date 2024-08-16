@@ -6,6 +6,9 @@
         "appIDs": [
           "H84ASDFDK5.uk.co.enterpriseautomation.pingme.app"
         ],
+        "paths": [
+          "*"
+        ],
         "components": [
           {
             "/": "/meetings",
