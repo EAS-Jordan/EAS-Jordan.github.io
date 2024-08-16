@@ -6,17 +6,14 @@
         "appIDs": [
           "H84ASDFDK5.uk.co.enterpriseautomation.pingme.app"
         ],
-        "paths": [
-          "/meetings/*"
-        ],
         "components": [
           {
-            "/": "/meetings/*",
+            "/": "/meetings",
             "query": {
               "id": "*"
             },
             "exclude": false,
-            "comment": "Allows handling of any URL under /meetings/ with an id query parameter."
+            "comment": "Allows handling of /meetings with an id query parameter and no additional path segments."
           }
         ]
       }
