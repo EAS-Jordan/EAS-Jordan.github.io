@@ -11,17 +11,10 @@
             "/": "/meetings",
             "query": {
               "id": "*"
-            },
-            "exclude": false,
-            "comment": "Allows handling of /meetings with an id query parameter and no additional path segments."
+            }
           }
         ]
       }
-    ]
-  },
-  "webcredentials": {
-    "apps": [
-      "H84ASDFDK5.uk.co.enterpriseautomation.pingme.app"
     ]
   }
 }
